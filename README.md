@@ -1,13 +1,13 @@
 # 🚀 Production-Ready DevOps Project (Flask + MySQL + CI/CD on Azure)
 
-## 🏗️ Architecture Diagram
-
-![Architecture](assets/architecture.png)
+## 📌 Project Overview
+This project demonstrates a **production-grade DevOps pipeline** for deploying a Flask web application with a MySQL database on Azure using modern DevOps practices.
 
 ---
 
-## 📌 Project Overview
-This project demonstrates a **production-grade DevOps pipeline** for deploying a Flask web application with a MySQL database on Azure using modern DevOps practices.
+## 🏗️ Architecture Diagram
+
+![Architecture](assets/architecture.png)
 
 ---
 
